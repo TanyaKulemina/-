@@ -18,4 +18,4 @@ void Select(string[] array)
     } 
 }
 
-
+Select(arrWords);
